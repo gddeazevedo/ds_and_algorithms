@@ -1,8 +1,7 @@
 #include <stdio.h>
-#include "./algorithms/insertion_sort/insertion_sort.h"
-
+#include "./algorithms/merge_sort/merge_sort.h"
 
 int main() {
-    insertion_sort_example();
+    merge_sort_example();
     return 0;
 }
